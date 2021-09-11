@@ -25,7 +25,7 @@ A Web Developer and Options Trader. Ex-Vice President of [CYBER CREW](https://cy
 
 ### My Socials
 
-<a href="https://www.instagram.com/dhruv_uchiha/"><img alt="HackerRank" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/dhruv_uchiha/"><img alt="HackerRank" src="https://img.shields.io/badge/%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 
