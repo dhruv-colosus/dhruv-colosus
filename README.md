@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Dhruv Deora
 
-A Web Developer and Options Trader. Ex-Vice President of [CYBER CREW](https://cybercrew.sajs.co.in/index.htm). Interested in ML/AI ,financial mathematics and cryptocurrency. Also, a MERN stack learner with slight knowledge in Linux Terminal.
+A Web Developer and Options Trader. Ex-Vice President of [CYBER CREW](https://cybercrew.sajs.co.in/index.htm). Interested in ML/AI ,financial mathematics and cryptocurrency. Also, a MERN stack learner with slight knowledge of Linux Terminal.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-colosus&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
