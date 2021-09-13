@@ -19,13 +19,12 @@ A Web Developer and Options Trader. Ex-Vice President of [CYBER CREW](https://cy
 
 ### My Dev Platforms
 
-<a href="https://www.hackerrank.com/dhruvdeora31"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>  	<a href = "https://www.hackerearth.com/@dhruvdeora31"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>  <a href = "https://www.hackerearth.com/@dhruvdeora31"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
+<a href="https://www.hackerrank.com/dhruvdeora31"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>   <a href = "https://www.hackerearth.com/@dhruvdeora31"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
 <a href = "#"><img alt="CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 
 
 ### My Socials
 
-<a href="https://www.instagram.com/dhruv_uchiha/"><img alt="HackerRank" src="https://img.shields.io/badge/%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 
