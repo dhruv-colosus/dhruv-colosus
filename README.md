@@ -4,12 +4,12 @@
 A Web Developer and Options Trader. Ex-Vice President of [CYBER CREW](https://cybercrew.sajs.co.in/index.htm). Interested in ML/AI ,financial mathematics and cryptocurrency. Also, a MERN stack learner with slight knowledge of Linux Terminal.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-colosus&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-colosus&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages I use
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Solidity" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Solidity" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 
 
 
@@ -23,7 +23,7 @@ A Web Developer and Options Trader. Ex-Vice President of [CYBER CREW](https://cy
 <a href = "#"><img alt="CodeWars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 
 
-### My Socials
+
 
 
 
