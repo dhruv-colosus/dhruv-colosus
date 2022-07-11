@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Dhruv Deora
 
-A MERN stack + Next.js Web Developer . Ex-Vice President of [CYBER CREW](https://cybercrew.sajs.co.in/index.htm). Interested in ML/AI ,financial mathematics . Also, a designer expertizing in web UI/UX and social media posts
+A MERN stack + Next.js Web Developer. Ex-Vice President of [CYBER CREW](https://cybercrew.sajs.co.in/index.htm). Interested in ML/AI, financial mathematics. Also, a designer expertizing in web UI/UX and social media posts
 
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-colosus&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
